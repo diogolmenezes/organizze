@@ -3,6 +3,8 @@
 Criei esse script pois o Organizze não disponibiliza o percentual sobre a receita no
 relatório por categoria.
 
+![Gif](https://media.giphy.com/media/xT0xeIu1YQD8qxsFwI/giphy.gif)
+
 ## Como utilizar
 
 Para utilizar, basta colocar o script minimizado abaixo no campo de URL do browser após acessar a página de relatório por categoria do seu Organizze.
